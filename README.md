@@ -7,13 +7,35 @@ The goal is to help farmers, agronomists, and researchers make informed decision
 
 ---
 
+## Team Members
+- **Mahmoud Reda**   
+- **Mahmoud Sanad**   
+- **Saleh Abdelrahman** 
+- **Aya Majar**   
+- **Farah Hesham**    
+- **Radwa Amr**   
+- **Zainab El-Sayed**  
+- **Shahd Rafik**   
+- **Mariam Yasser**  
+
+> This project was a collaborative effort by our team.
+
+---
+
 ## Features
 - ✅ Evaluate soil texture (sand, clay, and soil organic carbon)  
 - ✅ Assess pH suitability for specific crops  
 - ✅ Calculate nutrient adequacy for Nitrogen (N), Phosphorus (P), and Potassium (K)  
 - ✅ Adjust scores based on Egypt-specific standards and conditions  
 - ✅ Provide region-specific feedback based on latitude  
-- ✅ Output detailed soil quality report including overall score and sub-scores
+- ✅ Output detailed soil quality report including overall score and sub-scores  
+- ✅ **Deployed online via Streamlit for easy access**  
+
+---
+
+## Deployment
+You can access the live version of the system here:  
+[**Realistic Soil Quality Assessment – Live**](https://ai2project-axy3zoxmse4nvryxmraj4d.streamlit.app/)
 
 ---
 
@@ -22,6 +44,7 @@ The goal is to help farmers, agronomists, and researchers make informed decision
 - Realistic soil data (simulated or API-based)  
 - Modular functions for soil assessment  
 - Dictionary-based configuration for crop parameters  
+- Streamlit for deployment  
 
 ---
 
@@ -29,6 +52,3 @@ The goal is to help farmers, agronomists, and researchers make informed decision
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/soil-quality-assessment.git
-
-
-
